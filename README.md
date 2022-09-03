@@ -18,4 +18,4 @@ This installs all the dependencies.
 This creates a build version of the frontend and also boots up the server.
 
 ### Then in the browser open this link:
-<a href="localhost:3000/" target="_blank">localhost:3000/</a>
+localhost:3000
